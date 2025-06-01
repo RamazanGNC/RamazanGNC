@@ -1,6 +1,6 @@
 <h4>🔵 Growing interest on various field of technology and software mainly AI, Big Data and RPA focus. Passion for new challenges to take an active role in shaping the future of technology. I have the competence in experience, and I want to direct my career in an expert team. My goal will be to learn new information from my teammates and improve myself until I become a software developer who adds value to my company.</h4>
 
-🔵 Languages ı'm currently studying to specialise in :  **JAVA | SQL | PYTHON**
+🔵 Languages ı'm currently studying to specialise in :  **JAVA | SQL | PYTHON | C#**
 
 🔵 How to reach me :  ramazangnc001@gmail.com
 
